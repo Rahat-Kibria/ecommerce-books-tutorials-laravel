@@ -1,0 +1,1 @@
+window.addEventListener("DOMContentLoaded",e=>{var a=document.getElementById("datatablesSimple");a&&new simpleDatatables.DataTable(a)});
